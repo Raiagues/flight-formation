@@ -1,0 +1,10 @@
+RMSE posição medida
+x: 9853.3738 m
+y: 21464.9616 m
+z: 1779.5622 m
+
+RMSE posição estimada
+x: 6.8872 m
+y: 13.9020 m
+z: 1.3386 m
+

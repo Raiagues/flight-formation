@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#080d15">
+  <meta name="description" content="Simulação interativa de formação em voo: dinâmica orbital, movimento relativo e Filtro de Kalman Estendido. Pesquisa de Emilly Raiane Rodrigues, ENCITA 2023.">
+  <title>Flight Formation · Simulação orbital</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="Flight Formation, início"><svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="5"/><ellipse cx="16" cy="16" rx="15" ry="8" transform="rotate(-35 16 16)"/><circle class="dot" cx="27" cy="8" r="2.5"/></svg><span>flight<span class="light">formation</span></span></a>
+    <span class="project-tag">LABORATÓRIO ORBITAL</span>
+    <a class="repo-link" href="https://github.com/Raiagues/flight-formation" target="_blank" rel="noopener">Código & pesquisa <span aria-hidden="true">↗</span></a>
+  </header>
+  <main>
+    <section class="workspace" aria-label="Visualização da simulação">
+      <div class="scene-header"><div><p class="eyebrow">DINÂMICA RELATIVA · FKE</p><h1>Formação em voo</h1><p class="subtitle">Um líder. Uma órbita. Movimento em conjunto.</p></div><span class="live"><i></i> TERRA EM TEMPO REAL</span></div>
+      <div class="view-switch" role="group" aria-label="Referencial de visualização"><button id="view-earth" class="selected" aria-pressed="true">Terra</button><button id="view-relative" aria-pressed="false">Formação · LVLH</button></div>
+      <div id="viewport" tabindex="0" aria-label="Cena 3D interativa. Arraste para girar e use a roda ou dois dedos para aproximar."><div id="loading" role="status">Preparando a órbita<span class="loading-dots">…</span></div></div>
+      <div id="labels" aria-hidden="true"><span id="label-leader" class="object-label leader">Líder</span><span id="label-follower" class="object-label follower">Seguidor 01</span><span id="label-second" class="object-label second" hidden>Seguidor 02</span><span id="label-sun" class="sun-label">☀ Sol</span></div>
+      <div class="scene-info"><span id="frame-label">Referencial geocêntrico</span><span id="scene-note">Terra em escala · CubeSats ampliados para visualização</span></div>
+      <button id="camera-reset" class="camera-reset" title="Restaurar câmera" aria-label="Restaurar câmera">⌖</button>
+      <div class="orbit-note" id="orbit-note">Cenário original: perigeu de −98 km. Modelo matemático com passagem pelo interior da Terra.</div>
+      <div class="telemetry"><div><span>SEPARAÇÃO</span><strong id="distance">—<small> km</small></strong></div><div><span>ALTITUDE DO LÍDER</span><strong id="altitude">—<small> km</small></strong></div><div><span>TEMPO ORBITAL</span><strong id="elapsed">00:00:00</strong></div></div>
+      <div class="interaction-hint">Arraste para orbitar <span>·</span> Role para aproximar</div>
+    </section>
+    <aside class="sidebar" aria-label="Controles da simulação">
+      <div class="panel-heading"><span class="eyebrow">SIMULAÇÃO</span><span id="running-status" class="status">Em execução</span></div>
+      <div class="playback"><button id="play" class="primary" aria-label="Pausar simulação">Ⅱ <span>Pausar</span></button><button id="reset" class="square" title="Reiniciar simulação" aria-label="Reiniciar simulação">↺</button><label class="speed"><span class="sr-only">Velocidade orbital</span><select id="speed"><option value="1">1×</option><option value="30">30×</option><option value="120" selected>120×</option><option value="600">600×</option></select></label></div>
+      <p class="hint">A velocidade altera as órbitas. A Terra e o Sol acompanham o relógio real.</p>
+      <label class="field-label" for="scenario">Órbita do líder</label><select id="scenario" class="full-select"><option value="original">Original da pesquisa · e = 0,1</option><option value="circular">Demonstração circular · 600 km</option></select>
+      <section class="control-section"><h2>Formação <span id="satellite-count">02 SATÉLITES</span></h2><div class="satellite-row"><i class="swatch leader"></i><div><strong>Líder</strong><small>Dinâmica de dois corpos</small></div><span class="tag">ATIVO</span></div><div class="satellite-row"><i class="swatch follower"></i><div><strong>Seguidor 01</strong><small>Dinâmica relativa não linear</small></div><span class="tag">ATIVO</span></div><label class="satellite-row extra"><i class="swatch second"></i><div><strong>Seguidor 02</strong><small>Adicionar à formação</small></div><input id="second" type="checkbox" role="switch" aria-label="Adicionar segundo seguidor"></label></section>
+      <section class="control-section"><h2>Visualização</h2><label class="toggle-row">Eixos dos satélites <input id="axes" type="checkbox" role="switch"></label><div id="axes-key" class="axes-key" hidden><span>X radial</span><span>Y tangencial</span><span>Z normal</span></div><label class="toggle-row">Trajetórias <input id="trails" type="checkbox" role="switch" checked></label><label class="toggle-row">Medição e estimativa <input id="estimation" type="checkbox" role="switch" checked></label></section>
+      <section class="control-section noise-control"><h2><label for="noise">Ruído de medição</label><output id="noise-value" for="noise">14,14 m</output></h2><input id="noise" type="range" min="0" max="50" step="0.01" value="14.1421356237" aria-describedby="noise-hint"><div class="range-labels"><span>0 m</span><span>50 m</span></div><p id="noise-hint" class="hint">Desvio padrão por eixo. O FKE estima a posição a partir de medidas a cada 5 s.</p></section>
+      <details class="about"><summary>Sobre o experimento <span>+</span></summary><p>Emilly Raiane Rodrigues · orientação de Willer Gomes dos Santos. ENCITA / ITA, 2023.</p><p>Estado com 10 componentes; integração das equações não lineares. Os eixos representam o LVLH, não uma simulação de atitude. A inclinação visual de 35° não é um parâmetro do estudo.</p><p>O cenário original é matemático: o perigeu fica dentro da Terra. A opção circular é uma adaptação de demonstração.</p><p>Modelo 3D MiRaTa: NASA / Christopher R. Meaney. A aparência não identifica a missão estudada. Mapas da Terra: NASA Blue Marble e Earth at Night, sem nuvens em tempo real.</p><a href="./relatorio.pdf" target="_blank" rel="noopener">Ler relatório original ↗</a><a href="https://github.com/Raiagues/flight-formation/blob/main/research/REPRODUCTION.md" target="_blank" rel="noopener">Método, resultados e limitações ↗</a></details>
+      <div class="earth-clock"><span>UTC · TERRA & SOL</span><time id="utc">—</time><small>Rotação sideral e posição solar aproximadas</small></div>
+    </aside>
+    <section class="chart-panel" aria-label="Erro de posição do seguidor">
+      <div class="chart-heading"><div><h2>Da medição à estimativa</h2><p>Erro de posição do seguidor 01 em relação à trajetória verdadeira</p></div><div class="chart-tools"><span class="legend"><i class="measured"></i> Medido</span><span class="legend"><i class="estimated"></i> FKE</span><label><span class="sr-only">Eixo do gráfico</span><select id="chart-axis"><option value="0">Eixo X</option><option value="1">Eixo Y</option><option value="2">Eixo Z</option></select></label></div></div>
+      <div class="chart-body"><div class="plot"><canvas id="error-chart" aria-label="Gráfico de erro da posição medida e estimada em metros"></canvas><span id="chart-empty">Aguardando a primeira medição…</span></div><div class="chart-stats"><span>RMSE · JANELA VISÍVEL</span><div><i class="measured"></i> Medido <strong id="rmse-measured">—</strong></div><div><i class="estimated"></i> Estimado <strong id="rmse-estimated">—</strong></div><small id="window-size">Últimas 240 amostras · eixo X</small></div></div>
+    </section>
+  </main>
+  <footer><span>Uma visualização da pesquisa em navegação relativa.</span><span>ENCITA 2023 <span class="footer-dot">·</span> Emilly R. Rodrigues</span></footer>
+  <div id="message" role="status" hidden></div>
+  <noscript>Ative o JavaScript para executar a simulação. O código e o relatório estão disponíveis no GitHub.</noscript>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

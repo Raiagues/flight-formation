@@ -1,0 +1,13 @@
+{
+  "name": "flight-formation",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 4173 --directory web --bind 127.0.0.1",
+    "test": "node --test tests/*.test.mjs",
+    "reproduce": "node scripts/reproduce.mjs",
+    "build": "node scripts/build.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

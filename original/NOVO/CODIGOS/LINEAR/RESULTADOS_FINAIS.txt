@@ -1,0 +1,2140 @@
+RMSE posição medida
+x: 117.1468 m
+y: 115.5053 m
+z: 119.1632 m
+
+RMSE posição estimada
+x: 47.1188 m
+y: 46.7039 m
+z: 46.9616 m
+
+RMSE posição medida
+x: 117.1468 m
+y: 115.5053 m
+z: 119.1632 m
+
+RMSE posição estimada
+x: 47.1188 m
+y: 46.7039 m
+z: 46.9616 m
+
+RMSE posição medida
+x: 117.1468 m
+y: 115.5053 m
+z: 119.1632 m
+
+RMSE posição estimada
+x: 47.1188 m
+y: 46.7039 m
+z: 46.9616 m
+
+RMSE posição medida
+x: 117.1468 m
+y: 115.5053 m
+z: 119.1632 m
+
+RMSE posição estimada
+x: 47.1188 m
+y: 46.7039 m
+z: 46.9616 m
+
+RMSE posição medida
+x: 117.1468 m
+y: 115.5053 m
+z: 119.1632 m
+
+RMSE posição estimada
+x: 47.1188 m
+y: 46.7039 m
+z: 46.9616 m
+
+RMSE posição medida
+x: 117.1468 m
+y: 115.5053 m
+z: 119.1632 m
+
+RMSE posição estimada
+x: 47.1188 m
+y: 46.7039 m
+z: 46.9616 m
+
+RMSE posição medida
+x: 17.3174853369 m
+y: 16.8514591050 m
+z: 18.3195666657 m
+
+RMSE posição estimada
+x: 11.5449902246 m
+y: 11.2343060700 m
+z: 12.2130444438 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.3174374664 m
+y: 16.8513922285 m
+z: 17.8016603518 m
+
+STD posição estimada
+x: 11.5449583109 m
+y: 11.2342614857 m
+z: 11.8677735679 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.3174853369 m
+y: 16.8514591050 m
+z: 18.3195666657 m
+
+RMSE posição estimada
+x: 11.5449902246 m
+y: 11.2343060700 m
+z: 12.2130444438 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.3174374664 m
+y: 16.8513922285 m
+z: 17.8016603518 m
+
+STD posição estimada
+x: 11.5449583109 m
+y: 11.2342614857 m
+z: 11.8677735679 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 19.8243471609 m
+y: 19.2327574982 m
+z: 20.7278598159 m
+
+RMSE posição estimada
+x: 19.7257185681 m
+y: 19.1370721375 m
+z: 20.6247361352 m
+
+Porcentagem de redução 
+x: 99.5024875622 m
+y: 99.5024875622 m
+z: 99.5024875622 m
+
+
+
+STD posição medida
+x: 19.8243210533 m
+y: 19.2327403624 m
+z: 20.5089650704 m
+
+STD posição estimada
+x: 19.7256925903 m
+y: 19.1370550870 m
+z: 20.4069304183 m
+
+Porcentagem de redução 
+x: 99.5024875622 m
+y: 99.5024875622 m
+z: 99.5024875622 m
+
+RMSE posição medida
+x: 19.8243471609 m
+y: 19.2327574982 m
+z: 20.7278598159 m
+
+RMSE posição estimada
+x: 19.7257185681 m
+y: 19.1370721375 m
+z: 20.6247361352 m
+
+Porcentagem de redução 
+x: 99.5024875622 m
+y: 99.5024875622 m
+z: 99.5024875622 m
+
+
+
+STD posição medida
+x: 19.8243210533 m
+y: 19.2327403624 m
+z: 20.5089650704 m
+
+STD posição estimada
+x: 19.7256925903 m
+y: 19.1370550870 m
+z: 20.4069304183 m
+
+Porcentagem de redução 
+x: 99.5024875622 m
+y: 99.5024875622 m
+z: 99.5024875622 m
+
+RMSE posição medida
+x: 22204.4014595083 m
+y: 23848.7412110136 m
+z: 28.0317987983 m
+
+RMSE posição estimada
+x: 435.3804207747 m
+y: 467.6223766865 m
+z: 0.5496431137 m
+
+Porcentagem de redução 
+x: 1.9607843137 m
+y: 1.9607843137 m
+z: 1.9607843137 m
+
+
+
+STD posição medida
+x: 22041.5546227418 m
+y: 23844.8741928909 m
+z: 24.6423654047 m
+
+STD posição estimada
+x: 432.1873455440 m
+y: 467.5465528018 m
+z: 0.4831836354 m
+
+Porcentagem de redução 
+x: 1.9607843137 m
+y: 1.9607843137 m
+z: 1.9607843137 m
+
+RMSE posição medida
+x: 17.3174853369 m
+y: 16.8514591050 m
+z: 18.3195666657 m
+
+RMSE posição estimada
+x: 11.5449902246 m
+y: 11.2343060700 m
+z: 12.2130444438 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.3174374664 m
+y: 16.8513922285 m
+z: 17.8016603518 m
+
+STD posição estimada
+x: 11.5449583109 m
+y: 11.2342614857 m
+z: 11.8677735679 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.3174853369 m
+y: 16.8514591050 m
+z: 18.3195666657 m
+
+RMSE posição estimada
+x: 11.5449902246 m
+y: 11.2343060700 m
+z: 12.2130444438 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.3174374664 m
+y: 16.8513922285 m
+z: 17.8016603518 m
+
+STD posição estimada
+x: 11.5449583109 m
+y: 11.2342614857 m
+z: 11.8677735679 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.3174853369 m
+y: 16.8514591050 m
+z: 18.3195666657 m
+
+RMSE posição estimada
+x: 11.5449902246 m
+y: 11.2343060700 m
+z: 12.2130444438 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.3174374664 m
+y: 16.8513922285 m
+z: 17.8016603518 m
+
+STD posição estimada
+x: 11.5449583109 m
+y: 11.2342614857 m
+z: 11.8677735679 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.8063449563 m
+y: 17.5379277894 m
+z: 17.7629435408 m
+
+RMSE posição estimada
+x: 11.8708966375 m
+y: 11.6919518596 m
+z: 11.8419623605 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.8062675068 m
+y: 17.5378407266 m
+z: 17.2384168248 m
+
+STD posição estimada
+x: 11.8708450045 m
+y: 11.6918938177 m
+z: 11.4922778832 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.8063449563 m
+y: 17.5379277894 m
+z: 17.7629435408 m
+
+RMSE posição estimada
+x: 11.8708966375 m
+y: 11.6919518596 m
+z: 11.8419623605 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.8062675068 m
+y: 17.5378407266 m
+z: 17.2384168248 m
+
+STD posição estimada
+x: 11.8708450045 m
+y: 11.6918938177 m
+z: 11.4922778832 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.5990848359 m
+y: 17.7012743283 m
+z: 17.8895180792 m
+
+RMSE posição estimada
+x: 11.7327232240 m
+y: 11.8008495522 m
+z: 11.9263453861 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.5990264194 m
+y: 17.7011996996 m
+z: 17.3638909108 m
+
+STD posição estimada
+x: 11.7326842796 m
+y: 11.8007997998 m
+z: 11.5759272738 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.5146063843 m
+y: 17.0020896560 m
+z: 17.9219192849 m
+
+RMSE posição estimada
+x: 11.6764042562 m
+y: 11.3347264373 m
+z: 11.9479461899 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.5145507833 m
+y: 17.0020319849 m
+z: 17.3981185195 m
+
+STD posição estimada
+x: 11.6763671889 m
+y: 11.3346879899 m
+z: 11.5987456797 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.5146063843 m
+y: 17.0020896560 m
+z: 17.9219192849 m
+
+RMSE posição estimada
+x: 11.6764042562 m
+y: 11.3347264373 m
+z: 11.9479461899 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.5145507833 m
+y: 17.0020319849 m
+z: 17.3981185195 m
+
+STD posição estimada
+x: 11.6763671889 m
+y: 11.3346879899 m
+z: 11.5987456797 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.5146063843 m
+y: 17.0020896560 m
+z: 17.9219192849 m
+
+RMSE posição estimada
+x: 11.6764042562 m
+y: 11.3347264373 m
+z: 11.9479461899 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.5145507833 m
+y: 17.0020319849 m
+z: 17.3981185195 m
+
+STD posição estimada
+x: 11.6763671889 m
+y: 11.3346879899 m
+z: 11.5987456797 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.5146063843 m
+y: 17.0020896560 m
+z: 17.9219192849 m
+
+RMSE posição estimada
+x: 11.6764042562 m
+y: 11.3347264373 m
+z: 11.9479461899 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.5145507833 m
+y: 17.0020319849 m
+z: 17.3981185195 m
+
+STD posição estimada
+x: 11.6763671889 m
+y: 11.3346879899 m
+z: 11.5987456797 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.5146063843 m
+y: 17.0020896560 m
+z: 17.9219192849 m
+
+RMSE posição estimada
+x: 11.6764042562 m
+y: 11.3347264373 m
+z: 11.9479461899 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.5145507833 m
+y: 17.0020319849 m
+z: 17.3981185195 m
+
+STD posição estimada
+x: 11.6763671889 m
+y: 11.3346879899 m
+z: 11.5987456797 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.5146063843 m
+y: 17.0020896560 m
+z: 17.9219192849 m
+
+RMSE posição estimada
+x: 11.6764042562 m
+y: 11.3347264373 m
+z: 11.9479461899 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.5145507833 m
+y: 17.0020319849 m
+z: 17.3981185195 m
+
+STD posição estimada
+x: 11.6763671889 m
+y: 11.3346879899 m
+z: 11.5987456797 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.4681677940 m
+y: 17.2612062800 m
+z: 17.8706091856 m
+
+RMSE posição estimada
+x: 11.6454451960 m
+y: 11.5074708533 m
+z: 11.9137394570 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.4681600641 m
+y: 17.2611755560 m
+z: 17.3581555733 m
+
+STD posição estimada
+x: 11.6454400427 m
+y: 11.5074503707 m
+z: 11.5721037155 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.4681677940 m
+y: 17.2612062800 m
+z: 17.8706091856 m
+
+RMSE posição estimada
+x: 11.6454451960 m
+y: 11.5074708533 m
+z: 11.9137394570 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.4681600641 m
+y: 17.2611755560 m
+z: 17.3581555733 m
+
+STD posição estimada
+x: 11.6454400427 m
+y: 11.5074503707 m
+z: 11.5721037155 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.4681677940 m
+y: 17.2612062800 m
+z: 17.8706091856 m
+
+RMSE posição estimada
+x: 11.6454451960 m
+y: 11.5074708533 m
+z: 11.9137394570 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.4681600641 m
+y: 17.2611755560 m
+z: 17.3581555733 m
+
+STD posição estimada
+x: 11.6454400427 m
+y: 11.5074503707 m
+z: 11.5721037155 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 1984.5771673685 m
+y: 1998.8472568540 m
+z: 114.5287214754 m
+
+RMSE posição estimada
+x: 1323.0514449123 m
+y: 1332.5648379027 m
+z: 76.3524809836 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 1984.5027259829 m
+y: 1998.6943372373 m
+z: 17.7985067145 m
+
+STD posição estimada
+x: 1323.0018173219 m
+y: 1332.4628914916 m
+z: 11.8656711430 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 19.7495837975 m
+y: 19.5912940852 m
+z: 33.0544972414 m
+
+RMSE posição estimada
+x: 13.1663891983 m
+y: 13.0608627235 m
+z: 22.0363314942 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 19.7491554530 m
+y: 19.5912110623 m
+z: 16.7425638986 m
+
+STD posição estimada
+x: 13.1661036353 m
+y: 13.0608073749 m
+z: 11.1617092657 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 19.7495837975 m
+y: 19.5912940852 m
+z: 33.0544972414 m
+
+RMSE posição estimada
+x: 13.1663891983 m
+y: 13.0608627235 m
+z: 22.0363314942 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 19.7491554530 m
+y: 19.5912110623 m
+z: 16.7425638986 m
+
+STD posição estimada
+x: 13.1661036353 m
+y: 13.0608073749 m
+z: 11.1617092657 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 1974.9965439517 m
+y: 1989.2634451092 m
+z: 147.0231865136 m
+
+RMSE posição estimada
+x: 1316.6643626345 m
+y: 1326.1756300728 m
+z: 98.0154576757 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 1974.9228220384 m
+y: 1989.1108046513 m
+z: 17.9569998481 m
+
+STD posição estimada
+x: 1316.6152146923 m
+y: 1326.0738697675 m
+z: 11.9713332321 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.3225758481 m
+y: 16.8170315109 m
+z: 18.3163779273 m
+
+RMSE posição estimada
+x: 11.5483838987 m
+y: 11.2113543406 m
+z: 12.2109186182 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.3225521609 m
+y: 16.8169998321 m
+z: 17.8002022642 m
+
+STD posição estimada
+x: 11.5483681072 m
+y: 11.2113332214 m
+z: 11.8668015095 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.3225758481 m
+y: 16.8170315109 m
+z: 18.3163779273 m
+
+RMSE posição estimada
+x: 11.5483838987 m
+y: 11.2113543406 m
+z: 12.2109186182 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.3225521609 m
+y: 16.8169998321 m
+z: 17.8002022642 m
+
+STD posição estimada
+x: 11.5483681072 m
+y: 11.2113332214 m
+z: 11.8668015095 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.3225758481 m
+y: 16.8170315109 m
+z: 18.3163779273 m
+
+RMSE posição estimada
+x: 11.5483838987 m
+y: 11.2113543406 m
+z: 12.2109186182 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.3225521609 m
+y: 16.8169998321 m
+z: 17.8002022642 m
+
+STD posição estimada
+x: 11.5483681072 m
+y: 11.2113332214 m
+z: 11.8668015095 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.3225758481 m
+y: 16.8170315109 m
+z: 18.3163779273 m
+
+RMSE posição estimada
+x: 11.5483838987 m
+y: 11.2113543406 m
+z: 12.2109186182 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+
+
+STD posição medida
+x: 17.3225521609 m
+y: 16.8169998321 m
+z: 17.8002022642 m
+
+STD posição estimada
+x: 11.5483681072 m
+y: 11.2113332214 m
+z: 11.8668015095 m
+
+Porcentagem de redução 
+x: 66.6666666667 m
+y: 66.6666666667 m
+z: 66.6666666667 m
+
+RMSE posição medida
+x: 17.3225758481 m
+y: 16.8170315109 m
+z: 18.3163779273 m
+
+RMSE posição estimada
+x: 11.5483838987 m
+y: 11.2113543406 m
+z: 12.2109186182 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+
+
+STD posição medida
+x: 17.3225521609 m
+y: 16.8169998321 m
+z: 17.8002022642 m
+
+STD posição estimada
+x: 11.5483681072 m
+y: 11.2113332214 m
+z: 11.8668015095 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+RMSE posição medida
+x: 17.3225758481 m
+y: 16.8170315109 m
+z: 18.3163779273 m
+
+RMSE posição estimada
+x: 11.5483838987 m
+y: 11.2113543406 m
+z: 12.2109186182 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+
+
+STD posição medida
+x: 17.3225521609 m
+y: 16.8169998321 m
+z: 17.8002022642 m
+
+STD posição estimada
+x: 11.5483681072 m
+y: 11.2113332214 m
+z: 11.8668015095 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+RMSE posição medida
+x: 17.3225758481 m
+y: 16.8170315109 m
+z: 18.3163779273 m
+
+RMSE posição estimada
+x: 11.5483838987 m
+y: 11.2113543406 m
+z: 12.2109186182 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+
+
+STD posição medida
+x: 17.3225521609 m
+y: 16.8169998321 m
+z: 17.8002022642 m
+
+STD posição estimada
+x: 11.5483681072 m
+y: 11.2113332214 m
+z: 11.8668015095 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+RMSE posição medida
+x: 17.3225758481 m
+y: 16.8170315109 m
+z: 18.3163779273 m
+
+RMSE posição estimada
+x: 11.5483838987 m
+y: 11.2113543406 m
+z: 12.2109186182 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+
+
+STD posição medida
+x: 17.3225521609 m
+y: 16.8169998321 m
+z: 17.8002022642 m
+
+STD posição estimada
+x: 11.5483681072 m
+y: 11.2113332214 m
+z: 11.8668015095 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+RMSE posição medida
+x: 17.3225758481 m
+y: 16.8170315109 m
+z: 18.3163779273 m
+
+RMSE posição estimada
+x: 11.5483838987 m
+y: 11.2113543406 m
+z: 12.2109186182 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+
+
+STD posição medida
+x: 17.3225521609 m
+y: 16.8169998321 m
+z: 17.8002022642 m
+
+STD posição estimada
+x: 11.5483681072 m
+y: 11.2113332214 m
+z: 11.8668015095 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5502398445 m
+y: 16.0958546620 m
+z: 17.6076334999 m
+
+RMSE posição estimada
+x: 8.2751199222 m
+y: 8.0479273310 m
+z: 8.8038167499 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5497901228 m
+y: 16.0958144100 m
+z: 16.6915433226 m
+
+STD posição estimada
+x: 8.2748950614 m
+y: 8.0479072050 m
+z: 8.3457716613 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5529379229 m
+y: 16.1216075376 m
+z: 17.5988850680 m
+
+RMSE posição estimada
+x: 8.2764689614 m
+y: 8.0608037688 m
+z: 8.7994425340 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5528756971 m
+y: 16.1216074446 m
+z: 16.6782061496 m
+
+STD posição estimada
+x: 8.2764378486 m
+y: 8.0608037223 m
+z: 8.3391030748 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5567849252 m
+y: 20.7235775399 m
+z: 17.6550492359 m
+
+RMSE posição estimada
+x: 8.2783924626 m
+y: 10.3617887700 m
+z: 8.8275246180 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5566926501 m
+y: 20.7208827021 m
+z: 16.7503569701 m
+
+STD posição estimada
+x: 8.2783463251 m
+y: 10.3604413510 m
+z: 8.3751784851 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 16.5488780482 m
+y: 16.0920631801 m
+z: 17.6656822840 m
+
+RMSE posição estimada
+x: 8.2744390241 m
+y: 8.0460315900 m
+z: 8.8328411420 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+
+
+STD posição medida
+x: 16.5488528167 m
+y: 16.0919749814 m
+z: 16.7699954687 m
+
+STD posição estimada
+x: 8.2744264083 m
+y: 8.0459874907 m
+z: 8.3849977343 m
+
+Porcentagem de redução 
+x: 50.0000000000 m
+y: 50.0000000000 m
+z: 50.0000000000 m
+
+RMSE posição medida
+x: 17.3225758481 m
+y: 16.8170315109 m
+z: 18.3163779273 m
+
+RMSE posição estimada
+x: 11.5483838987 m
+y: 11.2113543406 m
+z: 12.2109186182 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+
+
+STD posição medida
+x: 17.3225521609 m
+y: 16.8169998321 m
+z: 17.8002022642 m
+
+STD posição estimada
+x: 11.5483681072 m
+y: 11.2113332214 m
+z: 11.8668015095 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+RMSE posição medida
+x: 17.3225758481 m
+y: 16.8170315109 m
+z: 18.3163779273 m
+
+RMSE posição estimada
+x: 11.5483838987 m
+y: 11.2113543406 m
+z: 12.2109186182 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+
+
+STD posição medida
+x: 17.3225521609 m
+y: 16.8169998321 m
+z: 17.8002022642 m
+
+STD posição estimada
+x: 11.5483681072 m
+y: 11.2113332214 m
+z: 11.8668015095 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+RMSE posição medida
+x: 17.3225758481 m
+y: 16.8170315109 m
+z: 18.3163779273 m
+
+RMSE posição estimada
+x: 11.5483838987 m
+y: 11.2113543406 m
+z: 12.2109186182 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+
+
+STD posição medida
+x: 17.3225521609 m
+y: 16.8169998321 m
+z: 17.8002022642 m
+
+STD posição estimada
+x: 11.5483681072 m
+y: 11.2113332214 m
+z: 11.8668015095 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+RMSE posição medida
+x: 17.3225758481 m
+y: 16.8170315109 m
+z: 18.3163779273 m
+
+RMSE posição estimada
+x: 11.5483838987 m
+y: 11.2113543406 m
+z: 12.2109186182 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+
+
+STD posição medida
+x: 17.3225521609 m
+y: 16.8169998321 m
+z: 17.8002022642 m
+
+STD posição estimada
+x: 11.5483681072 m
+y: 11.2113332214 m
+z: 11.8668015095 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+RMSE posição medida
+x: 17.3225758481 m
+y: 16.8170315109 m
+z: 18.3163779273 m
+
+RMSE posição estimada
+x: 11.5483838987 m
+y: 11.2113543406 m
+z: 12.2109186182 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
+
+
+STD posição medida
+x: 17.3225521609 m
+y: 16.8169998321 m
+z: 17.8002022642 m
+
+STD posição estimada
+x: 11.5483681072 m
+y: 11.2113332214 m
+z: 11.8668015095 m
+
+Porcentagem de redução 
+x: 33.3333333333 m
+y: 33.3333333333 m
+z: 33.3333333333 m
+
