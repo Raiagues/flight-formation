@@ -99,12 +99,17 @@ function rebuildPaths() {
 }
 function resetCamera() {
   controls.target.set(0,0,0);
-  if(view==='earth'){camera.position.set(2.7,1.6,3);controls.minDistance=1.15;controls.maxDistance=8;}
+  if(view==='earth'){
+    const sun=eciVector(astronomy(new Date()).sun);
+    const side=new THREE.Vector3().crossVectors(sun,new THREE.Vector3(0,1,0)).normalize();
+    camera.position.copy(sun).multiplyScalar(3.6).addScaledVector(side,2.7).add(new THREE.Vector3(0,.8,0));
+    controls.minDistance=1.15;controls.maxDistance=8;
+  }
   else {camera.position.set(1.15,.9,1.4);controls.target.set(0,0,-.05);controls.minDistance=.12;controls.maxDistance=4;}
   controls.update();
 }
 function resize() {
-  if(!renderer)return;const r=$('viewport').getBoundingClientRect();camera.aspect=r.width/r.height;camera.updateProjectionMatrix();renderer.setSize(r.width,r.height);drawChart();
+  if(!renderer)return;const r=$('viewport').getBoundingClientRect();camera.aspect=r.width/r.height;camera.fov=camera.aspect<1?55:39;camera.updateProjectionMatrix();renderer.setSize(r.width,r.height);drawChart();
 }
 function updatePlay(){ $('play').innerHTML=playing?'Ⅱ <span>Pausar</span>':'▷ <span>Continuar</span>';$('play').setAttribute('aria-label',playing?'Pausar simulação':'Continuar simulação');$('running-status').textContent=playing?'Em execução':'Pausada'; }
 function restart(notify=true) {
